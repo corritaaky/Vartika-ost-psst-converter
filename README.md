@@ -1,1 +1,1 @@
-# Vartika-ost-psst-converter
+# Vartika-ost-pst-converter
